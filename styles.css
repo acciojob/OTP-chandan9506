@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+
+#verification_heading{
+	text-align:center;
+}
+.code-container {
+  
+}
+
+.code {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  margin: 0 5px;
+  font-size: 18px;
+}
